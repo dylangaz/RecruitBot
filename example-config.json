@@ -1,0 +1,12 @@
+{
+    "token":"paste your token here",
+    "defaultPresence": {
+        "game": {
+            "name": "v1.2.0",
+            "type": "STREAMING",
+            "url": "https://www.twitch.tv/haywirerain"
+        }
+    },
+    "inputChannelID":"paste the channel ID where the bot should look for requests",
+    "outputChannelID":"paste the channel ID where the bot should embed requests"
+}
