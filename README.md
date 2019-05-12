@@ -12,4 +12,4 @@ For this example, we have two channels. Channel A is where users send recruiting
 * Rename 'example-config.json' to 'example.json'
 * Paste the Channel ID to the channel where the bot will read requests under 'inputChannelID'
 * Paste the Chennel ID to the channel where the bot will embed the request under 'outputChannelID'
-* Change the bot presence under 'defaultPresence'
+* Change the bot's presence under 'defaultPresence'
